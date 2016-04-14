@@ -1,6 +1,6 @@
 name: ALLOW
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.75461
 typography_spectrum: 0.50335
 title: '#1 Amazon Best Seller & International Best Seller'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4c90ff'
     - '#000000'
     - '#e53a33'
-  brandStrength: 0.5
-  lightness: 0.75
+  brandStrength: 0
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
